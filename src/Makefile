@@ -22,7 +22,7 @@ main.o: main.cpp
 	${CC} -c -o main.o main.cpp
 
 clean:
-	rm -rf *.o
+	rm -f *.o
 
 uninstall:
-	rm ${BINARY_DIRECTORY}/${BINARY_NAME}
+	rm -f ${BINARY_DIRECTORY}/${BINARY_NAME}
