@@ -33,7 +33,7 @@ $ cd bin/
 
 - Run this to execute the binary.
 ```
-$ ../app
+$ ./app
 ```
 
 ## License
