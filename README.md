@@ -24,6 +24,7 @@ $ make install
 ```
 $ make help
 ```
+Note: work with `g++` GCC 11.1.0 on Arch Linux x86_64.
 
 ## Usage
 - Go to the `bin` directory.
