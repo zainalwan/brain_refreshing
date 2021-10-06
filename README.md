@@ -7,7 +7,7 @@
 - [License](#license)
 
 ## Introduction
-This is a project that used to refresh my C++ knowledge.
+This is a work that used to refresh my C++ knowledge.
 
 ## Installation
 - Go to the `src/` directory.
